@@ -1,1 +1,2 @@
 hii hello, i am sangeeth from namakkal
+In this module, we will primarily focus on concerns relating to good data science practices using the python data science stack: Jupyter, Pandas, Numpy, scikit-learn, matplotlib and mlflow.
