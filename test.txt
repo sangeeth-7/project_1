@@ -1,2 +1,14 @@
 hii hello, i am sangeeth from namakkal
 In this module, we will primarily focus on concerns relating to good data science practices using the python data science stack: Jupyter, Pandas, Numpy, scikit-learn, matplotlib and mlflow.
+
+Reading material
+
+Chapters 1, 2, 3 and 4 from the Python DataScience Handbook
+
+The above book is an excellent reference to learn to use the Python data science stack effectively and has hands-on examples that should go through in your own notebooks.
+
+A chapter from Hands-on Machine Learning with scikit-learn, keras and tensorflow. Here is a downloadable copy.
+
+A chapter from Introduction to Machine Learning on Scikit-learn Pipelines. Here is a downloadable copy.
+
+NOTE: The above downloadable content has been provided for learning purposes. The content has been downloaded by Senganal T, who has a licensed copy of the material. Pls. use the above for your individual use during MLE training and DO NOT share publicly.
